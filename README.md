@@ -1,7 +1,16 @@
 # Shion
-A multi purpose moderation and utility Discord bot, built with [Discord.NET](https://github.com/discord-net/Discord.Net).
+A multi-purpose moderation and utility Discord bot, built with [Discord.NET](https://github.com/discord-net/Discord.Net).
 
 Compared to prior version of Shion, this bot will be built primarily focused on the "new" Interaction Framework as opposed to the older Text-based Commands.
+
+## To Do
+- [ ] Base sharded client
+- [ ] Hosted services
+- [ ] Interactions framework
+- [ ] Base modules
+- [ ] Scheduler microservice
+- [ ] Database access layer (concurrent access)
+- [ ] Command service
 
 ## Documentation
 * Not yet established
