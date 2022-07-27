@@ -16,7 +16,7 @@ Compared to prior version of Shion, this bot will be built primarily focused on 
 * Not yet established
 
 ## Support Server
-* [Shion | Support](https://discord.gg/BAd6kGXEy3)
+* [Shion | Support](https://discord.gg/SM7MaSDZEm)
 
 ## Installation
 
