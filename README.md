@@ -1,10 +1,11 @@
 # Shion
+* Moved to https://github.com/shion-bot/shion
 A multi purpose moderation and utility Discord bot, built with [Discord.NET](https://github.com/discord-net/Discord.Net).
 
 Compared to prior version of Shion, this bot will be built primarily focused on the "new" Interaction Framework as opposed to the older Text-based Commands.
 
 ## Documentation
-* Not yet established
+* Most of the information on this README will be outdated and new information can be found on the newly hosted repository: https://github.com/shion-bot/shion
 
 ## Support Server
 * [Shion | Support](https://discord.gg/SM7MaSDZEm)
